@@ -2,6 +2,7 @@
 __author__ = "Dr. Saad Laouadi"
 __copyright__ = "All rights reserved to the author"
 
+import sys
 import numpy as np
 
 
@@ -12,3 +13,4 @@ def print_np_version():
 
 if __name__ == "__main__":
     print_np_version()
+    print(sys.executable)
