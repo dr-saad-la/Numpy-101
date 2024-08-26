@@ -5,9 +5,10 @@ __copyright__ = "All rights reserved to the author"
 import numpy as np
 
 
-def print_version():
+def print_np_version():
+    """Print numpy version."""
     print(np.__version__)
 
 
 if __name__ == "__main__":
-    print_version()
+    print_np_version()
