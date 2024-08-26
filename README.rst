@@ -2,18 +2,16 @@
 Numpy-101
 ==========================
 
-.. image:: https://github.com/dr-saad-la/numpy-101/workflows/CI/badge.svg
-    :alt: Build Status
-.. image:: https://img.shields.io/badge/License-MIT-yellow.svg
-    :alt: License: MIT
-.. image:: https://img.shields.io/badge/version-1.0.0-blue.svg
-    :alt: Version
-.. image:: https://img.shields.io/badge/python-3.8%20|%203.9%20|%203.10%20|%203.11%20|%203.12-blue.svg
-    :alt: Python Versions
-.. image:: https://img.shields.io/github/stars/dr-saad-la/numpy-101.svg?style=social
-    :alt: GitHub stars
-.. image:: https://coveralls.io/repos/github/dr-saad-la/numpy-101/badge.svg?branch=master
-    :alt: Coverage Status
+.. raw:: html
+
+   <p>
+     <img alt="Static Badge" src="https://img.shields.io/badge/numpy%3A_101-bluegreen?style=plastic">
+     <img src="https://github.com/dr-saad-la/numpy-101/workflows/CI/badge.svg" alt="Build Status"/>
+     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/>
+     <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version"/>
+     <img src="https://img.shields.io/badge/python-3.8%20|%203.9%20|%203.10%20|%203.11%20|%203.12-blue.svg" alt="Python Versions"/>
+     <img src="https://img.shields.io/github/stars/dr-saad-la/numpy-101.svg?style=social" alt="GitHub stars"/>
+   </p>
 
 **Numpy-101** is an introductory guide to the powerful NumPy library in Python, designed for data scientists, engineers, and anyone interested in scientific computing. This repository contains comprehensive tutorials, examples, and exercises to help you master the basics of NumPy and leverage its capabilities in your projects.
 
