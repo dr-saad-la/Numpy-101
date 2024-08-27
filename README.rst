@@ -6,7 +6,7 @@ Numpy-101
 
    <p>
      <img alt="Static Badge" src="https://img.shields.io/badge/numpy%3A_101-bluegreen?style=plastic">
-     <img src="https://github.com/dr-saad-la/numpy-101/workflows/ci/badge.svg" alt="Build Status"/>
+     <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/dr-saad-la/numpy-101/ci.yml">
      <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/>
      <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version"/>
      <img src="https://img.shields.io/badge/python-3.10%20|%203.11%20|%203.12-blue.svg" alt="Python Versions"/>
