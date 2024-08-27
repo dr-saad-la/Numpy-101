@@ -38,7 +38,7 @@ Requirements
 
 Make sure you have the following installed:
 
-- Python 3.7 or higher
+- Python 3.10 or higher
 - NumPy (>=1.18.0)
 
 You can install the required packages using pip:
