@@ -9,7 +9,7 @@ Numpy-101
      <img src="https://github.com/dr-saad-la/numpy-101/workflows/ci/badge.svg" alt="Build Status"/>
      <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/>
      <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version"/>
-     <img src="https://img.shields.io/badge/python-3.8%20|%203.9%20|%203.10%20|%203.11%20|%203.12-blue.svg" alt="Python Versions"/>
+     <img src="https://img.shields.io/badge/python-3.10%20|%203.11%20|%203.12-blue.svg" alt="Python Versions"/>
      <img src="https://img.shields.io/github/stars/dr-saad-la/numpy-101.svg?style=social" alt="GitHub stars"/>
    </p>
 
