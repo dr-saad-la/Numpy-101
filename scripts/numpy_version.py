@@ -10,7 +10,6 @@ def print_np_version():
     """Print numpy version."""
     print(np.__version__)
 
-
 if __name__ == "__main__":
     print_np_version()
     print(sys.executable)
